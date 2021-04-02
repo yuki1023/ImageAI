@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-QuizFrench/Pods-QuizFrench-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IBAnimatable/IBAnimatable.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/NCMB/NCMB.framework

@@ -1,0 +1,593 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28426A7B24FC0C7B002B7E19 /* iTunesArtwork@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6A24FC0C7A002B7E19 /* iTunesArtwork@2x.jpeg */; };
+		28426A7C24FC0C7B002B7E19 /* Icon-App-20x20@1x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6B24FC0C7A002B7E19 /* Icon-App-20x20@1x.jpeg */; };
+		28426A7D24FC0C7B002B7E19 /* Icon-App-20x20@3x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6C24FC0C7A002B7E19 /* Icon-App-20x20@3x.jpeg */; };
+		28426A7E24FC0C7B002B7E19 /* Icon-App-60x60@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6D24FC0C7A002B7E19 /* Icon-App-60x60@2x.jpeg */; };
+		28426A7F24FC0C7B002B7E19 /* Icon-App-40x40@1x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6E24FC0C7A002B7E19 /* Icon-App-40x40@1x.jpeg */; };
+		28426A8024FC0C7B002B7E19 /* Icon-App-40x40@3x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A6F24FC0C7A002B7E19 /* Icon-App-40x40@3x.jpeg */; };
+		28426A8124FC0C7B002B7E19 /* Icon-App-20x20@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7024FC0C7A002B7E19 /* Icon-App-20x20@2x.jpeg */; };
+		28426A8224FC0C7B002B7E19 /* iTunesArtwork@1x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7124FC0C7A002B7E19 /* iTunesArtwork@1x.jpeg */; };
+		28426A8324FC0C7B002B7E19 /* Icon-App-60x60@3x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7224FC0C7A002B7E19 /* Icon-App-60x60@3x.jpeg */; };
+		28426A8424FC0C7B002B7E19 /* iTunesArtwork@3x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7324FC0C7A002B7E19 /* iTunesArtwork@3x.jpeg */; };
+		28426A8524FC0C7B002B7E19 /* Icon-App-40x40@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7424FC0C7A002B7E19 /* Icon-App-40x40@2x.jpeg */; };
+		28426A8624FC0C7B002B7E19 /* Icon-App-29x29@3x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7524FC0C7A002B7E19 /* Icon-App-29x29@3x.jpeg */; };
+		28426A8724FC0C7B002B7E19 /* Icon-App-76x76@1x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7624FC0C7A002B7E19 /* Icon-App-76x76@1x.jpeg */; };
+		28426A8824FC0C7B002B7E19 /* Icon-App-29x29@1x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7724FC0C7A002B7E19 /* Icon-App-29x29@1x.jpeg */; };
+		28426A8924FC0C7B002B7E19 /* Icon-App-83.5x83.5@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7824FC0C7A002B7E19 /* Icon-App-83.5x83.5@2x.jpeg */; };
+		28426A8A24FC0C7B002B7E19 /* Icon-App-29x29@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7924FC0C7A002B7E19 /* Icon-App-29x29@2x.jpeg */; };
+		28426A8B24FC0C7B002B7E19 /* Icon-App-76x76@2x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 28426A7A24FC0C7A002B7E19 /* Icon-App-76x76@2x.jpeg */; };
+		284C825A24E035A000D9A50F /* QuizCorrectAnswer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 284C825924E035A000D9A50F /* QuizCorrectAnswer.mp3 */; };
+		284C825C24E03B8600D9A50F /* QuizWrongAnswer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 284C825B24E03B8600D9A50F /* QuizWrongAnswer.mp3 */; };
+		284C826624E04BDD00D9A50F /* correct.png in Resources */ = {isa = PBXBuildFile; fileRef = 284C826524E04BDD00D9A50F /* correct.png */; };
+		284C826824E04BE700D9A50F /* incorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 284C826724E04BE700D9A50F /* incorrect.png */; };
+		284C826A24E04CAD00D9A50F /* EasyScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284C826924E04CAD00D9A50F /* EasyScoreViewController.swift */; };
+		284C826C24E04CEC00D9A50F /* NormalScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284C826B24E04CEC00D9A50F /* NormalScoreViewController.swift */; };
+		284C826E24E04D0A00D9A50F /* HardScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284C826D24E04D0A00D9A50F /* HardScoreViewController.swift */; };
+		284D01CB24F3E78600662B26 /* paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 284D01CA24F3E78600662B26 /* paris.jpg */; };
+		284D01D124F4142100662B26 /* versailles2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 284D01D024F4142100662B26 /* versailles2.jpg */; };
+		284D01D524F41B3900662B26 /* arc_de_triomph2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 284D01D424F41B3900662B26 /* arc_de_triomph2.jpg */; };
+		284D377824F63C4C00F05355 /* versailles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 284D377724F63C4C00F05355 /* versailles.jpg */; };
+		284D377C24F65E4B00F05355 /* ZakkuriGothic-BLK.otf in Resources */ = {isa = PBXBuildFile; fileRef = 284D377B24F65DE500F05355 /* ZakkuriGothic-BLK.otf */; };
+		284D378024F663EB00F05355 /* ヒラギノ丸ゴ ProN W4.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 284D377F24F663D600F05355 /* ヒラギノ丸ゴ ProN W4.ttc */; };
+		2863912E24D83E3A005139C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863912D24D83E3A005139C1 /* AppDelegate.swift */; };
+		2863913024D83E3A005139C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863912F24D83E3A005139C1 /* SceneDelegate.swift */; };
+		2863913224D83E3A005139C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863913124D83E3A005139C1 /* ViewController.swift */; };
+		2863913524D83E3A005139C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2863913324D83E3A005139C1 /* Main.storyboard */; };
+		2863913724D83E3C005139C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2863913624D83E3C005139C1 /* Assets.xcassets */; };
+		2863913A24D83E3C005139C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2863913824D83E3C005139C1 /* LaunchScreen.storyboard */; };
+		2863914224D84236005139C1 /* EasyQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863914124D84236005139C1 /* EasyQuizViewController.swift */; };
+		2863914424D8424D005139C1 /* NormalQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863914324D8424D005139C1 /* NormalQuizViewController.swift */; };
+		28EBBA8A24F58012006C0E32 /* YuGothic-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28EBBA8924F57FC8006C0E32 /* YuGothic-Medium.otf */; };
+		28EBBA8C24F581B2006C0E32 /* YuGothic-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28EBBA8B24F581A4006C0E32 /* YuGothic-Bold.otf */; };
+		28FAE03624D9D84E00CA7726 /* HardQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FAE03524D9D84E00CA7726 /* HardQuizViewController.swift */; };
+		586E4129C243E84CA9A25B4D /* Pods_QuizFrench.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F55DC454CC432D8F01B8C1A2 /* Pods_QuizFrench.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		28426A6A24FC0C7A002B7E19 /* iTunesArtwork@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iTunesArtwork@2x.jpeg"; sourceTree = "<group>"; };
+		28426A6B24FC0C7A002B7E19 /* Icon-App-20x20@1x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-20x20@1x.jpeg"; sourceTree = "<group>"; };
+		28426A6C24FC0C7A002B7E19 /* Icon-App-20x20@3x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-20x20@3x.jpeg"; sourceTree = "<group>"; };
+		28426A6D24FC0C7A002B7E19 /* Icon-App-60x60@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-60x60@2x.jpeg"; sourceTree = "<group>"; };
+		28426A6E24FC0C7A002B7E19 /* Icon-App-40x40@1x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-40x40@1x.jpeg"; sourceTree = "<group>"; };
+		28426A6F24FC0C7A002B7E19 /* Icon-App-40x40@3x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-40x40@3x.jpeg"; sourceTree = "<group>"; };
+		28426A7024FC0C7A002B7E19 /* Icon-App-20x20@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-20x20@2x.jpeg"; sourceTree = "<group>"; };
+		28426A7124FC0C7A002B7E19 /* iTunesArtwork@1x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iTunesArtwork@1x.jpeg"; sourceTree = "<group>"; };
+		28426A7224FC0C7A002B7E19 /* Icon-App-60x60@3x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-60x60@3x.jpeg"; sourceTree = "<group>"; };
+		28426A7324FC0C7A002B7E19 /* iTunesArtwork@3x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iTunesArtwork@3x.jpeg"; sourceTree = "<group>"; };
+		28426A7424FC0C7A002B7E19 /* Icon-App-40x40@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-40x40@2x.jpeg"; sourceTree = "<group>"; };
+		28426A7524FC0C7A002B7E19 /* Icon-App-29x29@3x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-29x29@3x.jpeg"; sourceTree = "<group>"; };
+		28426A7624FC0C7A002B7E19 /* Icon-App-76x76@1x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-76x76@1x.jpeg"; sourceTree = "<group>"; };
+		28426A7724FC0C7A002B7E19 /* Icon-App-29x29@1x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-29x29@1x.jpeg"; sourceTree = "<group>"; };
+		28426A7824FC0C7A002B7E19 /* Icon-App-83.5x83.5@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-83.5x83.5@2x.jpeg"; sourceTree = "<group>"; };
+		28426A7924FC0C7A002B7E19 /* Icon-App-29x29@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-29x29@2x.jpeg"; sourceTree = "<group>"; };
+		28426A7A24FC0C7A002B7E19 /* Icon-App-76x76@2x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Icon-App-76x76@2x.jpeg"; sourceTree = "<group>"; };
+		284C825924E035A000D9A50F /* QuizCorrectAnswer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = QuizCorrectAnswer.mp3; sourceTree = "<group>"; };
+		284C825B24E03B8600D9A50F /* QuizWrongAnswer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = QuizWrongAnswer.mp3; sourceTree = "<group>"; };
+		284C826524E04BDD00D9A50F /* correct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = correct.png; sourceTree = "<group>"; };
+		284C826724E04BE700D9A50F /* incorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = incorrect.png; sourceTree = "<group>"; };
+		284C826924E04CAD00D9A50F /* EasyScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyScoreViewController.swift; sourceTree = "<group>"; };
+		284C826B24E04CEC00D9A50F /* NormalScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalScoreViewController.swift; sourceTree = "<group>"; };
+		284C826D24E04D0A00D9A50F /* HardScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardScoreViewController.swift; sourceTree = "<group>"; };
+		284D01CA24F3E78600662B26 /* paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paris.jpg; sourceTree = "<group>"; };
+		284D01D024F4142100662B26 /* versailles2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = versailles2.jpg; sourceTree = "<group>"; };
+		284D01D424F41B3900662B26 /* arc_de_triomph2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arc_de_triomph2.jpg; sourceTree = "<group>"; };
+		284D377724F63C4C00F05355 /* versailles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = versailles.jpg; sourceTree = "<group>"; };
+		284D377B24F65DE500F05355 /* ZakkuriGothic-BLK.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ZakkuriGothic-BLK.otf"; sourceTree = "<group>"; };
+		284D377F24F663D600F05355 /* ヒラギノ丸ゴ ProN W4.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ丸ゴ ProN W4.ttc"; sourceTree = "<group>"; };
+		2863912A24D83E3A005139C1 /* QuizFrench.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizFrench.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2863912D24D83E3A005139C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2863912F24D83E3A005139C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2863913124D83E3A005139C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2863913424D83E3A005139C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2863913624D83E3C005139C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = QuizFrench/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		2863913924D83E3C005139C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2863913B24D83E3C005139C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2863914124D84236005139C1 /* EasyQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyQuizViewController.swift; sourceTree = "<group>"; };
+		2863914324D8424D005139C1 /* NormalQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalQuizViewController.swift; sourceTree = "<group>"; };
+		28EBBA8924F57FC8006C0E32 /* YuGothic-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YuGothic-Medium.otf"; sourceTree = "<group>"; };
+		28EBBA8B24F581A4006C0E32 /* YuGothic-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YuGothic-Bold.otf"; sourceTree = "<group>"; };
+		28FAE03524D9D84E00CA7726 /* HardQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardQuizViewController.swift; sourceTree = "<group>"; };
+		B6910B6D3DF1B923250D80CC /* Pods-QuizFrench.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuizFrench.debug.xcconfig"; path = "Target Support Files/Pods-QuizFrench/Pods-QuizFrench.debug.xcconfig"; sourceTree = "<group>"; };
+		F52C36979B29B191BA82A86A /* Pods-QuizFrench.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuizFrench.release.xcconfig"; path = "Target Support Files/Pods-QuizFrench/Pods-QuizFrench.release.xcconfig"; sourceTree = "<group>"; };
+		F55DC454CC432D8F01B8C1A2 /* Pods_QuizFrench.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuizFrench.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2863912724D83E3A005139C1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				586E4129C243E84CA9A25B4D /* Pods_QuizFrench.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		28426A6924FC0C7A002B7E19 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				28426A6A24FC0C7A002B7E19 /* iTunesArtwork@2x.jpeg */,
+				28426A6B24FC0C7A002B7E19 /* Icon-App-20x20@1x.jpeg */,
+				28426A6C24FC0C7A002B7E19 /* Icon-App-20x20@3x.jpeg */,
+				28426A6D24FC0C7A002B7E19 /* Icon-App-60x60@2x.jpeg */,
+				28426A6E24FC0C7A002B7E19 /* Icon-App-40x40@1x.jpeg */,
+				28426A6F24FC0C7A002B7E19 /* Icon-App-40x40@3x.jpeg */,
+				28426A7024FC0C7A002B7E19 /* Icon-App-20x20@2x.jpeg */,
+				28426A7124FC0C7A002B7E19 /* iTunesArtwork@1x.jpeg */,
+				28426A7224FC0C7A002B7E19 /* Icon-App-60x60@3x.jpeg */,
+				28426A7324FC0C7A002B7E19 /* iTunesArtwork@3x.jpeg */,
+				28426A7424FC0C7A002B7E19 /* Icon-App-40x40@2x.jpeg */,
+				28426A7524FC0C7A002B7E19 /* Icon-App-29x29@3x.jpeg */,
+				28426A7724FC0C7A002B7E19 /* Icon-App-29x29@1x.jpeg */,
+				28426A7624FC0C7A002B7E19 /* Icon-App-76x76@1x.jpeg */,
+				28426A7824FC0C7A002B7E19 /* Icon-App-83.5x83.5@2x.jpeg */,
+				28426A7924FC0C7A002B7E19 /* Icon-App-29x29@2x.jpeg */,
+				28426A7A24FC0C7A002B7E19 /* Icon-App-76x76@2x.jpeg */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		2863912124D83E3A005139C1 = {
+			isa = PBXGroup;
+			children = (
+				2863912C24D83E3A005139C1 /* QuizFrench */,
+				2863912B24D83E3A005139C1 /* Products */,
+				7008A490EB7DCD9B03FFF33E /* Pods */,
+				C33F9D71E4CAAF79B527B5A3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		2863912B24D83E3A005139C1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2863912A24D83E3A005139C1 /* QuizFrench.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2863912C24D83E3A005139C1 /* QuizFrench */ = {
+			isa = PBXGroup;
+			children = (
+				2863912D24D83E3A005139C1 /* AppDelegate.swift */,
+				2863912F24D83E3A005139C1 /* SceneDelegate.swift */,
+				2863913124D83E3A005139C1 /* ViewController.swift */,
+				2863913324D83E3A005139C1 /* Main.storyboard */,
+				28426A6924FC0C7A002B7E19 /* icon */,
+				2863913624D83E3C005139C1 /* Assets.xcassets */,
+				28FAE03124D9D75500CA7726 /* アイテム */,
+				28FAE03224D9D79000CA7726 /* Easy */,
+				28FAE03324D9D7A900CA7726 /* Normal */,
+				28FAE03424D9D7DA00CA7726 /* Hard */,
+				2863913824D83E3C005139C1 /* LaunchScreen.storyboard */,
+				2863913B24D83E3C005139C1 /* Info.plist */,
+			);
+			path = QuizFrench;
+			sourceTree = "<group>";
+		};
+		28FAE03124D9D75500CA7726 /* アイテム */ = {
+			isa = PBXGroup;
+			children = (
+				284D377F24F663D600F05355 /* ヒラギノ丸ゴ ProN W4.ttc */,
+				284D377B24F65DE500F05355 /* ZakkuriGothic-BLK.otf */,
+				28EBBA8924F57FC8006C0E32 /* YuGothic-Medium.otf */,
+				28EBBA8B24F581A4006C0E32 /* YuGothic-Bold.otf */,
+				284D01D424F41B3900662B26 /* arc_de_triomph2.jpg */,
+				284D01D024F4142100662B26 /* versailles2.jpg */,
+				284D377724F63C4C00F05355 /* versailles.jpg */,
+				284D01CA24F3E78600662B26 /* paris.jpg */,
+				284C826524E04BDD00D9A50F /* correct.png */,
+				284C826724E04BE700D9A50F /* incorrect.png */,
+				284C825924E035A000D9A50F /* QuizCorrectAnswer.mp3 */,
+				284C825B24E03B8600D9A50F /* QuizWrongAnswer.mp3 */,
+			);
+			path = "アイテム";
+			sourceTree = "<group>";
+		};
+		28FAE03224D9D79000CA7726 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				2863914124D84236005139C1 /* EasyQuizViewController.swift */,
+				284C826924E04CAD00D9A50F /* EasyScoreViewController.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		28FAE03324D9D7A900CA7726 /* Normal */ = {
+			isa = PBXGroup;
+			children = (
+				2863914324D8424D005139C1 /* NormalQuizViewController.swift */,
+				284C826B24E04CEC00D9A50F /* NormalScoreViewController.swift */,
+			);
+			path = Normal;
+			sourceTree = "<group>";
+		};
+		28FAE03424D9D7DA00CA7726 /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+				28FAE03524D9D84E00CA7726 /* HardQuizViewController.swift */,
+				284C826D24E04D0A00D9A50F /* HardScoreViewController.swift */,
+			);
+			path = Hard;
+			sourceTree = "<group>";
+		};
+		7008A490EB7DCD9B03FFF33E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B6910B6D3DF1B923250D80CC /* Pods-QuizFrench.debug.xcconfig */,
+				F52C36979B29B191BA82A86A /* Pods-QuizFrench.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C33F9D71E4CAAF79B527B5A3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F55DC454CC432D8F01B8C1A2 /* Pods_QuizFrench.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2863912924D83E3A005139C1 /* QuizFrench */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2863913E24D83E3C005139C1 /* Build configuration list for PBXNativeTarget "QuizFrench" */;
+			buildPhases = (
+				6AB2D22DFA71B5DB93C122B6 /* [CP] Check Pods Manifest.lock */,
+				2863912624D83E3A005139C1 /* Sources */,
+				2863912724D83E3A005139C1 /* Frameworks */,
+				2863912824D83E3A005139C1 /* Resources */,
+				D260312F49BE80A8DA0FC64F /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuizFrench;
+			productName = QuizFrench;
+			productReference = 2863912A24D83E3A005139C1 /* QuizFrench.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2863912224D83E3A005139C1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1150;
+				LastUpgradeCheck = 1150;
+				ORGANIZATIONNAME = "Rio Abe";
+				TargetAttributes = {
+					2863912924D83E3A005139C1 = {
+						CreatedOnToolsVersion = 11.5;
+					};
+				};
+			};
+			buildConfigurationList = 2863912524D83E3A005139C1 /* Build configuration list for PBXProject "QuizFrench" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2863912124D83E3A005139C1;
+			productRefGroup = 2863912B24D83E3A005139C1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2863912924D83E3A005139C1 /* QuizFrench */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2863912824D83E3A005139C1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28426A8624FC0C7B002B7E19 /* Icon-App-29x29@3x.jpeg in Resources */,
+				284D378024F663EB00F05355 /* ヒラギノ丸ゴ ProN W4.ttc in Resources */,
+				28426A8024FC0C7B002B7E19 /* Icon-App-40x40@3x.jpeg in Resources */,
+				28426A7D24FC0C7B002B7E19 /* Icon-App-20x20@3x.jpeg in Resources */,
+				284D377C24F65E4B00F05355 /* ZakkuriGothic-BLK.otf in Resources */,
+				28426A8A24FC0C7B002B7E19 /* Icon-App-29x29@2x.jpeg in Resources */,
+				28426A8724FC0C7B002B7E19 /* Icon-App-76x76@1x.jpeg in Resources */,
+				28426A7C24FC0C7B002B7E19 /* Icon-App-20x20@1x.jpeg in Resources */,
+				28EBBA8C24F581B2006C0E32 /* YuGothic-Bold.otf in Resources */,
+				284D377824F63C4C00F05355 /* versailles.jpg in Resources */,
+				28426A8B24FC0C7B002B7E19 /* Icon-App-76x76@2x.jpeg in Resources */,
+				28426A7E24FC0C7B002B7E19 /* Icon-App-60x60@2x.jpeg in Resources */,
+				28EBBA8A24F58012006C0E32 /* YuGothic-Medium.otf in Resources */,
+				28426A7B24FC0C7B002B7E19 /* iTunesArtwork@2x.jpeg in Resources */,
+				284C825C24E03B8600D9A50F /* QuizWrongAnswer.mp3 in Resources */,
+				284C826624E04BDD00D9A50F /* correct.png in Resources */,
+				28426A8124FC0C7B002B7E19 /* Icon-App-20x20@2x.jpeg in Resources */,
+				284D01D524F41B3900662B26 /* arc_de_triomph2.jpg in Resources */,
+				28426A8824FC0C7B002B7E19 /* Icon-App-29x29@1x.jpeg in Resources */,
+				284D01D124F4142100662B26 /* versailles2.jpg in Resources */,
+				2863913A24D83E3C005139C1 /* LaunchScreen.storyboard in Resources */,
+				28426A8524FC0C7B002B7E19 /* Icon-App-40x40@2x.jpeg in Resources */,
+				2863913724D83E3C005139C1 /* Assets.xcassets in Resources */,
+				284D01CB24F3E78600662B26 /* paris.jpg in Resources */,
+				28426A8924FC0C7B002B7E19 /* Icon-App-83.5x83.5@2x.jpeg in Resources */,
+				28426A8224FC0C7B002B7E19 /* iTunesArtwork@1x.jpeg in Resources */,
+				284C826824E04BE700D9A50F /* incorrect.png in Resources */,
+				284C825A24E035A000D9A50F /* QuizCorrectAnswer.mp3 in Resources */,
+				28426A8324FC0C7B002B7E19 /* Icon-App-60x60@3x.jpeg in Resources */,
+				28426A8424FC0C7B002B7E19 /* iTunesArtwork@3x.jpeg in Resources */,
+				2863913524D83E3A005139C1 /* Main.storyboard in Resources */,
+				28426A7F24FC0C7B002B7E19 /* Icon-App-40x40@1x.jpeg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6AB2D22DFA71B5DB93C122B6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-QuizFrench-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D260312F49BE80A8DA0FC64F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-QuizFrench/Pods-QuizFrench-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-QuizFrench/Pods-QuizFrench-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-QuizFrench/Pods-QuizFrench-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2863912624D83E3A005139C1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28FAE03624D9D84E00CA7726 /* HardQuizViewController.swift in Sources */,
+				2863913224D83E3A005139C1 /* ViewController.swift in Sources */,
+				2863914224D84236005139C1 /* EasyQuizViewController.swift in Sources */,
+				2863912E24D83E3A005139C1 /* AppDelegate.swift in Sources */,
+				2863913024D83E3A005139C1 /* SceneDelegate.swift in Sources */,
+				284C826A24E04CAD00D9A50F /* EasyScoreViewController.swift in Sources */,
+				284C826E24E04D0A00D9A50F /* HardScoreViewController.swift in Sources */,
+				284C826C24E04CEC00D9A50F /* NormalScoreViewController.swift in Sources */,
+				2863914424D8424D005139C1 /* NormalQuizViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2863913324D83E3A005139C1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2863913424D83E3A005139C1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2863913824D83E3C005139C1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2863913924D83E3C005139C1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2863913C24D83E3C005139C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2863913D24D83E3C005139C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2863913F24D83E3C005139C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6910B6D3DF1B923250D80CC /* Pods-QuizFrench.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = DTQM9VL99A;
+				INFOPLIST_FILE = QuizFrench/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = rioabe.com.QuizFrench;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		2863914024D83E3C005139C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F52C36979B29B191BA82A86A /* Pods-QuizFrench.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = DTQM9VL99A;
+				INFOPLIST_FILE = QuizFrench/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = rioabe.com.QuizFrench;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2863912524D83E3A005139C1 /* Build configuration list for PBXProject "QuizFrench" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2863913C24D83E3C005139C1 /* Debug */,
+				2863913D24D83E3C005139C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2863913E24D83E3C005139C1 /* Build configuration list for PBXNativeTarget "QuizFrench" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2863913F24D83E3C005139C1 /* Debug */,
+				2863914024D83E3C005139C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2863912224D83E3A005139C1 /* Project object */;
+}

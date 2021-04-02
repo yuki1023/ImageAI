@@ -1,0 +1,35 @@
+PODS:
+  - IBAnimatable (6.1.0)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - NCMB (3.1.0)
+
+DEPENDENCIES:
+  - IBAnimatable
+  - Kingfisher (~> 5.0)
+  - NCMB (from `https://github.com/NIFTYCloud-mbaas/ncmb_ios.git`, branch `develop`)
+
+SPEC REPOS:
+  trunk:
+    - IBAnimatable
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  NCMB:
+    :branch: develop
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: 73eef06d8f87d92d152ec0b2f3797a465801abe4
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  NCMB: c308972109137bf523ec1830bac16de6a31c25f4
+
+PODFILE CHECKSUM: c579daec5e78ef74f2553df90cecbcbb842cd519
+
+COCOAPODS: 1.9.3
